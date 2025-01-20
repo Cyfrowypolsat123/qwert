@@ -28,7 +28,7 @@ a[href^="tel:"] {
 body {
 	position: relative;
     background-color: #4a4a4a;
-    color: #878787;
+    color: #7cca22;
     font: 14px/20px 'Open Sans', sans-serif;
 }
 
@@ -146,12 +146,12 @@ a {
 }
 
 a:hover {
-	color: #fdc903;
+	color: #1403fd;
 }
 
 .btn {
     display: inline-block;
-    background-color: #fdc903;
+    background-color: #033dfd;
     color: #fff;
     font-size: 14px;
     line-height: 20px;
@@ -322,7 +322,7 @@ header h1 a img {
     line-height: 24px;
     text-transform: uppercase;
     color: #fff;
-    background-color: #fdc903;
+    background-color: #4603fd;
 }
 
 .c_phone span {
@@ -496,7 +496,7 @@ a.gal:hover img {
 /**Map**/
 
 .color1 {
-    color: #fdc903;
+    color: #033dfd;
 }
 
 .color1 a:hover , a.color1:hover {
@@ -603,7 +603,7 @@ footer {
     margin: 0 6px 0 7px;
     color: #fff;
     text-align: center;
-    background-color: #fdc903;
+    background-color: #6303fd;
     border-radius: 500px;
     width: 58px;
     height: 58px;
@@ -612,7 +612,7 @@ footer {
 }
 
 .socials a:hover {
-    color: #fdc903;
+    color: #3103fd;
     background-color: #585757;
 }
 
